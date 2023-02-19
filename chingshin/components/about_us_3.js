@@ -3,7 +3,7 @@ import "./about_us.css";
 import "../_css/bootstrap.css";
 import "../_js/bootstrap.bundle.js";
 
-class extends Component {
+class about_us_3 extends Component {
     state = {}
     render() {
         return (
@@ -27,44 +27,44 @@ class extends Component {
                     <div class="row">
                         <div class="col-3 checkText" id="checkText">
                             <a href="/about_us_images/tea_check_images/檢驗報告/原鄉四季.pdf">
-                                <img src="/about_us_images/tea_check_images/timthumb.jfif" alt="">
+                                <img src="/about_us_images/tea_check_images/timthumb.jfif" />
                             </a>
                         </div>
                         <div class="col-3 checkText" id="checkText">
                             <a href="/about_us_images/tea_check_images/檢驗報告/特級綠茶茶葉.pdf">
-                                <img src="/about_us_images/tea_check_images/特級綠茶茶葉.jfif" alt="">
+                                <img src="/about_us_images/tea_check_images/特級綠茶茶葉.jfif" />
                             </a>
                         </div>
                         <div class="col-3 checkText" id="checkText">
                             <a href="/about_us_images/tea_check_images/檢驗報告/錫蘭紅茶茶葉.pdf">
-                                <img src="/about_us_images/tea_check_images/錫蘭紅茶.jfif" alt="">
+                                <img src="/about_us_images/tea_check_images/錫蘭紅茶.jfif" />
                             </a>
                         </div>
                         <div class="col-3 checkText" id="checkText">
                             <a href="/about_us_images/tea_check_images/檢驗報告/烏龍綠茶茶葉.pdf">
-                                <img src="/about_us_images/tea_check_images/烏龍綠茶茶葉.jfif" alt="">
+                                <img src="/about_us_images/tea_check_images/烏龍綠茶茶葉.jfif" />
                             </a>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-3 checkText" id="checkText">
                             <a href="/about_us_images/tea_check_images/檢驗報告/極品菁茶茶葉.pdf">
-                                <img src="/about_us_images/tea_check_images/極品菁茶茶葉.jfif" alt="">
+                                <img src="/about_us_images/tea_check_images/極品菁茶茶葉.jfif" />
                             </a>
                         </div>
                         <div class="col-3 checkText" id="checkText">
                             <a href="/about_us_images/tea_check_images/檢驗報告/翡翠烏龍茶葉.pdf">
-                                <img src="/about_us_images/tea_check_images/翡翠烏龍綠茶茶葉.jfif" alt="">
+                                <img src="/about_us_images/tea_check_images/翡翠烏龍綠茶茶葉.jfif" />
                             </a>
                         </div>
                         <div class="col-3 checkText" id="checkText">
                             <a href="/about_us_images/tea_check_images/檢驗報告/嚴選高山茶茶葉.pdf">
-                                <img src="/about_us_images/tea_check_images/嚴選高山茶茶葉.jfif" alt="">
+                                <img src="/about_us_images/tea_check_images/嚴選高山茶茶葉.jfif" />
                             </a>
                         </div>
                         <div class="col-3 checkText" id="checkText">
                             <a href="/about_us_images/tea_check_images/特選普洱茶茶葉.jfif">
-                                <img src="/about_us_images/tea_check_images/特選普洱茶茶葉.jfif" alt="">
+                                <img src="/about_us_images/tea_check_images/特選普洱茶茶葉.jfif" />
                             </a>
                         </div>
                     </div>
@@ -85,4 +85,4 @@ class extends Component {
     }
 }
 
-export default ;
+export default about_us_3;
